@@ -1,78 +1,84 @@
 {
-	"Basic theory" : 
-					[
-						"What is testing", 
-						"bug reports",
-						"documentation", 
-						"types", 
-						"methods", 
-						"directions of testing",
-						"SDLC",
-						"STLC"
-					],
-	"What is client-server architecture",
-	"HTTP Server Request Methods",
-	"HTTP server response codes",
-	"Structures of HTTP requests and responses",
-	"What is JSON, XML. Their structure",
-	"Testing API through Postman" :
-									[
-										"JS", 
-										"API autotests"
-									],
-	"Capturing and reading logs from an external server",
-	"Sniffing http web traffic through Charles and Fiddler",
-	"Dev Tools web browsers" :
-								[
-									"Google Chrome", 
-									"FireFox"
-								],
-	"VPN",
-	"mobile testing",
-	"Feature of iOS, Android, guidlines",
-	"Building iOS apps on XCode",
-	"Building Android apps on Android Studio",
-	"ADB (android device management)",
-	"Setting up proxies and vpn on iOS and Android",
-	"Intercepting (sniffing) mobile traffic through Charles and Fiddler on iOS and Android",
-	"Linux command line (terminal)" : 
-									[
-										"copying",
-										"creating", 
-										"viewing", 
-										"moving files on servers without GUI"
-									],
-	"Basics of bash scripting, automation of routine tasks on the server",
-	"Access to remote servers",
-	"SQL basics" :
-					[
-						"Create", 
-						"Delete", 
-						"Drop", 
-						"Insert Into", 
-						"Select", 
-						"From", 
-						"Where", 
-						"Join"
-					],
-	"Postgres database" : 
-						[
-							"installation", 
-							"configuration", 
-							"use"
-						],
-	"Redis nonrelational database" :
-									[
-										"installation", 
-										"configuration",
-										"use"
-									],
-	"Load testing in Jmeter",
-	"Scrum development methodology",
-	"Python" : 
-				[
-					"Learning the basics",
-					"Creating a client-server application"
-				]
+	"Basic theory" :  
+		[
+			"What is testing", 
+			"bug reports",
+			"documentation", 
+			"types", 
+			"methods", 
+			"directions of testing",
+			"SDLC",
+			"STLC",
+	       		 "What is client-server architecture",
+	        		"HTTP Server Request Methods",
+	        		"HTTP server response codes",
+	        		"Structures of HTTP requests and responses",
+        			"What is JSON, XML. Their structure",
+			"Capturing and reading logs from an external server",
+			"Sniffing http web traffic through Charles and Fiddler",
+			"Load testing in Jmeter",
+			"Scrum development methodology",
+			"VPN",
+			"mobile testing",
+			"Feature of iOS, Android, guidlines",
+			"Building iOS apps on XCode",
+			"Building Android apps on Android Studio",
+			"ADB (android device management)",
+			"Setting up proxies and vpn on iOS and Android",
+			"Intercepting (sniffing) mobile traffic through Charles and Fiddler on iOS and Android",
+			"Basics of bash scripting, automation of routine tasks on the server",
+			"Access to remote servers"
+		],
 
-} 
+	"Testing API through Postman" :
+				[
+					"JS", 
+					"API autotests"
+				],	
+	
+	"Dev Tools web browsers" :
+				[
+					"Google Chrome", 
+					"FireFox"
+				],
+	
+	"Linux command line (terminal)" : 
+				[
+					"copying",
+					"creating", 
+					"viewing", 
+					"moving files on servers without GUI"
+				],
+	
+	"SQL basics" :
+			[
+				"Create", 
+				"Delete", 
+				"Drop", 
+				"Insert Into", 
+				"Select", 
+				"From", 
+				"Where", 
+				"Join"
+			],
+
+	"Postgres database" : 
+			[
+				"installation", 
+				"configuration", 
+				"use"
+			],
+	"Redis nonrelational database" :
+					[
+						"installation", 
+						"configuration",
+						"use"
+					],
+	
+	"Python" : 
+		[
+			"Learning the basics",
+			"Creating a client-server application"
+		]
+
+}
